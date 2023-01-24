@@ -1,0 +1,6 @@
+Goals: Learn to use the dialogue asset, art (particles too), dll, Unity tools
+
+========
+01/23/2023
+--------
+} Current plan: Make three scenes, looking down at chair, the starting room, room with a scary chair
