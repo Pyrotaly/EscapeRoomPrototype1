@@ -1,6 +1,11 @@
-Goals: Learn to use the dialogue asset, art (particles too), dll, Unity tools
+Goals: Learn to use the dialogue asset, art (particles too), dll, Unity tools, audio
+Game Mechanic Ideas: Inventory system, multiple "endings".
 
 ========
 01/23/2023
 --------
-} Current plan: Make three scenes, looking down at chair, the starting room, room with a scary chair
+} Current plan: Make three scenes, looking down at chair, the starting room, room with a scary chair (and experiment mini game...)
+} Gray box main room, white room, dark room with the hand cutting machine thing
+} To beat game, just need to figure out the two colored wires to cut
+
+Hard part: drawing pov sitting down...
